@@ -27,9 +27,37 @@ Check out the interactive web application UI:
 
 ---
 
+## Available CLI Commands:
+
+1. Add Task: a, add, add task, create, new
+2. Show Tasks: s, show, show tasks, list, display
+3. Edit Task: edit, update, u
+4. Help: h, help, options, commands
+5. Exit: q, quit, exit, stop, bye
+
+---
+
+⚙️ Data Format Example (homework_data.json)
+
+`{
+    "english": {
+        "task description": "read and analyze chapter 4 of To Kill a Mockingbird",
+        "task status": "Not started",
+        "task_deadline": "05/12/2026"
+    },
+    "math": {
+        "task description": "solve calculus problem set on derivatives",
+        "task status": "Not started",
+        "task_deadline": "05/15/2026"
+    }
+}`
+
+---
+
 ## 💻 Installation & Usage
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/rishirgupt/study-assistant-bot.git](https://github.com/rishirgupt/study-assistant-bot.git)
    cd study-assistant-bot
+
