@@ -39,7 +39,7 @@ Check out the interactive web application UI:
 
 ⚙️ Data Format Example (homework_data.json)
 
-`{
+{
     "english": {
         "task description": "read and analyze chapter 4 of To Kill a Mockingbird",
         "task status": "Not started",
@@ -50,7 +50,7 @@ Check out the interactive web application UI:
         "task status": "Not started",
         "task_deadline": "05/15/2026"
     }
-}`
+}
 
 ---
 
