@@ -38,7 +38,7 @@ Check out the interactive web application UI:
 ---
 
 ⚙️ Data Format Example (homework_data.json)
-
+```bash
 {
     "english": {
         "task description": "read and analyze chapter 4 of To Kill a Mockingbird",
@@ -51,7 +51,7 @@ Check out the interactive web application UI:
         "task_deadline": "05/15/2026"
     }
 }
-
+```
 ---
 
 ## 💻 Installation & Usage
