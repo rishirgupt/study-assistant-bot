@@ -1,5 +1,9 @@
 # 📚 Study Assistant Bot
 
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 An educational task management chatbot designed to help students create, edit, update, and track their homework assignments and study tasks easily via a Command Line Interface (CLI) or through an interactive Web UI built using Lovable.ai.
 
 ---
@@ -8,7 +12,7 @@ An educational task management chatbot designed to help students create, edit, u
 
 Check out the interactive web application UI:
 👉 **[Study Assistant Bot Web App](https://study-assistant-bot.lovable.app/)**
-
+    
 ---
 
 ## ✨ Features
@@ -54,10 +58,8 @@ Check out the interactive web application UI:
 ```
 ---
 
-## 💻 Installation & Usage
+## 👨‍💻 Author
+**Rishi Gupta**  
+*Grade 12 Student | Aspiring AI Developer*
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/rishirgupt/study-assistant-bot.git](https://github.com/rishirgupt/study-assistant-bot.git)
-   cd study-assistant-bot
 
